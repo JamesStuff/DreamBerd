@@ -38,6 +38,12 @@ If you're unsure, that's ok. You can put a question mark at the end of a line in
 print("Hello world")?
 ```
 
+If you're unsure whether you're unsure or not, that's ok. You can use an interrobang instead of a question mark. This is purely syntactic sugar for a question mark, and prints debug info.
+
+```java
+print("Hello world")‽
+```
+
 You might be wondering what DreamBerd uses for the 'not' operator, which is an exclamation mark in most other languages. That's simple - the 'not' operator is a semi-colon instead.
 
 ```java
@@ -847,7 +853,7 @@ The DreamBerd Vision Pro is now available! Watch the full launch video [here](ht
 
 ## Edutainment
 
-Want to learn more about DreamBerd? 
+Want to learn more about DreamBerd?
 
 Don't check out this [tech talk](https://youtu.be/52vmjZnxJb8) about DreamBerd by DreamBerd creator Lu/Luke Wilson.
 
